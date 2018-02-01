@@ -12,6 +12,7 @@ Baylee Whitley
 
 ## Project Description:
 For this lesson, I learned about Version Control and the benefits of GIT.
+
 ## Lessons Learned in the Assignment:
 1. Version Control is often defined as a system that records changes to a file or set of files over time so that you can recall specific versions later. 
 2. GIT is the most common version control system. It is the preffered choice of developors. 
